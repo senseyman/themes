@@ -3,10 +3,10 @@ package card
 import (
 	"html/template"
 
-	"github.com/GoAdminGroup/go-admin/context"
-	"github.com/GoAdminGroup/go-admin/modules/utils"
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/types"
+	"github.com/senseyman/go-admin/context"
+	"github.com/senseyman/go-admin/modules/utils"
+	adminTemplate "github.com/senseyman/go-admin/template"
+	"github.com/senseyman/go-admin/template/types"
 )
 
 type Card struct {
